@@ -1,0 +1,3 @@
+(executable
+ (name 1179)
+ (libraries str))
