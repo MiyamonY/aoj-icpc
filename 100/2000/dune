@@ -1,0 +1,3 @@
+(executable
+ (name 2000)
+ (libraries str))
